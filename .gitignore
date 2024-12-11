@@ -1,1 +1,4 @@
-clearpath_system_venv
+venv
+yolov5_model
+yolov5s.pt
+yolov5
